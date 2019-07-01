@@ -35,6 +35,6 @@ figcaption{
   display: block
 }
 #details >div{
-  float: left
-  background-color: #ff0000
+  float: left;
+  background-color: #ff0000;
 }
