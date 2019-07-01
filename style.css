@@ -14,7 +14,7 @@ img{
 }
 
 nav{
-  text-align: center
+  text-align: center;
 }
 nav > a{
   padding-left: 10px;
@@ -26,6 +26,6 @@ figcaption{
   font-size: 8;
 }
 #featured-property > p{
-  width: 800px;
   text-align: center;
+  width: 800px;
 }
